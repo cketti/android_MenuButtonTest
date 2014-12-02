@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuButtonTest</string>
+    <string name="info_text">Press the hardware menu button, then try opening one of the submenus.</string>
+
+</resources>
